@@ -13,7 +13,8 @@ Click [here](https://dsanmart-streamlit-resnet-demo-app-2c7s3f.streamlitapp.com/
 
 ### 2. Install dependencies
 
-Make sure you have dependencies listed in requirements.txt (Note: numpy & pandas are considered as defaults)
+Make sure you have dependencies listed in requirements.txt
+> **_Note:_** numpy & pandas are considered as defaults.
 
 Install streamlit:  
 ```bash
