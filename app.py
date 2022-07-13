@@ -88,7 +88,7 @@ if __name__ == "__main__":
       st.code(rescode, language="python")
 
   st.subheader("Want to see Resnet18 in action?")
-  file = st.file_uploader("Upload an image to see PyTorch pre-trained model in action.", type=["jpg","png"])
+  file = st.file_uploader("Upload an image to see PyTorch pre-trained model in action.", type=["jpg","png","jpeg"])
 
   if file:
     img = Image.open(file)
