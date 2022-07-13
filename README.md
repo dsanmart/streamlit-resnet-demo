@@ -8,7 +8,7 @@ Click [here](https://dsanmart-streamlit-demos-resnet-18-dd0o7i.streamlitapp.com/
 
 ## To run the app Locally
 
-### 1. Download ResNet_18_App.py
+### 1. Download app.py
 
 ### 2. Install dependencies
 
@@ -22,7 +22,7 @@ pip install streamlit
 ### 3. Run!
  Run the streamlit app in your CLI:
  ```bash
- streamlit run ResNet_18_App.py
+ streamlit run app.py
  ```
  
 Open your browser and go to http://localhost:8501/
