@@ -1,4 +1,4 @@
-# ResNet 18 Streamlit App
+# ResNet 18 Streamlit Web App
 
   - This repo shows a sample deployment of [ResNet-18](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html) with [Streamlit](https://www.streamlit.io)
   
