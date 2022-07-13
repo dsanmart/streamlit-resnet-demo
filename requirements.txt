@@ -1,2 +1,6 @@
+numpy
+pandas
+PIL
+requests
 torch
 torchvision
