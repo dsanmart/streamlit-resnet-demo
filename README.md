@@ -4,7 +4,7 @@
   
 ## To check web app (on Streamlit Cloud)
 
-Click [here](https://dsanmart-streamlit-demos-resnet-18-dd0o7i.streamlitapp.com/)
+Click [here](https://dsanmart-streamlit-resnet-demo-app-2c7s3f.streamlitapp.com/)
 
 ## To run the app Locally
 
